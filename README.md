@@ -25,7 +25,9 @@ This calculator uses a custom-built `BigInt` class to support **arbitrary-precis
 - `×` Multiplication
 - `÷` Division
 
-## 🙌 Acknowledgments
+---
+
+### 🙌 Acknowledgments
 
 It is **not affiliated with any academic coursework**.
 
