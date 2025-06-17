@@ -25,6 +25,10 @@ This calculator uses a custom-built `BigInt` class to support **arbitrary-precis
 - `×` Multiplication
 - `÷` Division
 
+## 🙌 Acknowledgments
+
+It is **not affiliated with any academic coursework**.
+
 ### 🧠 Highlights:
 - Can handle integers with **thousands of digits**
 - Fully supports **negative inputs and outputs**
@@ -38,3 +42,5 @@ This calculator uses a custom-built `BigInt` class to support **arbitrary-precis
 BigInt a = new BigInt("-999999999999999999999");
 BigInt b = new BigInt("333333333333333333333");
 BigInt result = a.div(b); // ➜ -3
+
+
