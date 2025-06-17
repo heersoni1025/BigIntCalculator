@@ -29,6 +29,8 @@ This calculator uses a custom-built `BigInt` class to support **arbitrary-precis
 
 It is **not affiliated with any academic coursework**.
 
+---
+
 ### 🧠 Highlights:
 - Can handle integers with **thousands of digits**
 - Fully supports **negative inputs and outputs**
