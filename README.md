@@ -10,7 +10,7 @@ A JavaFX-based calculator that supports arbitrary-precision integer operations u
 - Handles **negative numbers** and **very large integers**
 - Animated buttons for interactive feedback
 - Smooth result fade-in animation
-- Clean, rounded UI components with pastel background
+- Clean, rounded UI components with a pastel background
 - Responsive layout and modern font styling
 
 ---
