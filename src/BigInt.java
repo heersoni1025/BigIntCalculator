@@ -421,5 +421,5 @@ class BigInt implements Comparable<BigInt> {
         return product;
     }
 
-    //this was pretty long eh
+  
 }
