@@ -103,7 +103,6 @@ class BigInt implements Comparable<BigInt> {
 
     /**
      * Converts this BigInt to its string representation
-     *
      * @return A string representation of this BigInt
      */
     @Override
@@ -131,7 +130,7 @@ class BigInt implements Comparable<BigInt> {
      * @return A new BigInt representing the sum of this and b2.
      */
     BigInt add(BigInt b2) {
-        // self notes:    cases: if this => b2
+        // notes:    cases: if this => b2
         //if this is negative and b2 is not
         // if this is positive and b2 is negative
         //both negative
@@ -165,8 +164,7 @@ class BigInt implements Comparable<BigInt> {
     }
 
     /**
-     * Compares the magnitude (absolute value) of this BigInt with another.
-     *
+     * Compares the magnitude (absolute value) of this BigInt with another
      * @param o The BigInt to compare with.
      * @return -1 if the magnitude of this < o, 1 if the magnitude of this > o, and 0 if they are equal.
      */
@@ -302,7 +300,6 @@ class BigInt implements Comparable<BigInt> {
 
     /**
      * Divides this BigInt by another BigInt and returns the quotient as a new BigInt.
-     * (Currently unimplemented).
      *
      * @param divisor The BigInt to divide by.
      * @return A new BigInt representing the quotient.
